@@ -8,7 +8,7 @@
         <p>图片首次访问后缓存，"永久"有效，包括全球分布的 CDN，以确保尽可能快地提供图像.</p>
         <p>项目使用无服务器服务搭建，托管在 <a-tag color="gray"><template #icon><icon-cloud /></template>Cloudflare Pages</a-tag> 上运行.
         </p>
-        <p>我的主页： <a-link href="http://yuanjinwu.xyz/" target="_blank" icon>ZYCS-IMG</a-link></p>
+        <p>我的主页： <a-link href="http://yuanjinwu.xyz/" target="_blank" icon>felicita主页</a-link></p>
       </div>
     </header>
     <main>
