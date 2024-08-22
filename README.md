@@ -1,8 +1,8 @@
-# 骤雨重山图床
+# 秋月清图床
 
 English | [简体中文](https://github.com/uxiaohan/ZYCS-IMG/blob/main/README_CN.md)
 
-> In the modern Internet environment, fast and stable image access is one of the important factors to improve user experience. This article will introduce how to use Cloudflare Pages to deploy a stable unlimited image bed Telegraph, realize image upload and access, and further accelerate through WordPress's WP.COM global image cache to improve image loading speed. It can be used for free image hosting solutions, alternatives such as Flickr/imgur.
+> In the modern Internet environment, fast and stable image access is one of the important factors to improve user experience. This article will introduce how to use Cloudflare Pages to deploy a stable unlimited image bed Telegraph, realize image upload and access, 和 further accelerate through WordPress's WP.COM global image cache to improve image loading speed. It can be used for free image hosting solutions, alternatives such as Flickr/imgur.
 
 ## Introduction
 
